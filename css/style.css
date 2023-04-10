@@ -4,6 +4,10 @@
     border: solid 2px white;
 }
 
+section {
+    margin-bottom: 20px;
+}
+
 span {
     color: white;
 }
